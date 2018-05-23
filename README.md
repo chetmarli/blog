@@ -1,0 +1,2 @@
+# blog
+ten nowy blog
